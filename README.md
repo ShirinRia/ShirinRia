@@ -1,4 +1,4 @@
-<a href="https://www.facebook.com/mirhussainmurtaza/">
+
 <img src="https://github.com/ShirinRia/ShirinRia/blob/main/git_cover.png" />
 </a>
 <br/>
