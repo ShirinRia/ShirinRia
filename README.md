@@ -19,7 +19,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,materialui,javascript,react,nodejs,express,mongodb,vercel,firebase,vite," />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,daisyui,materialui,javascript,react,nodejs,express,mongodb,vercel,firebase,vite," />
   </a>
 </p>
 
@@ -34,6 +34,22 @@
 </p>
 
 <br />
+##  📚Summary of My Profile
+
+<div align="center">
+
+
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShirinRia&theme=default" width="900"/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShirinRia&theme=default" width="450"/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShirinRia&theme=default" width="450"/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShirinRia&theme=default" width="450"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShirinRia&theme=default&utcOffset=8" width="450"/>
+</div>
+<br/>
 
 ## :mailbox: Reach me out
 
