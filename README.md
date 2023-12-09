@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com/mirhussainmurtaza/">
-<img src="https://github.com/ShirinRia/ShirinRia/blob/main/Cover.png" />
+<img src="https://github.com/ShirinRia/ShirinRia/blob/main/git_cover.png" />
 </a>
 <br/>
 <h3 align="center">Web Developer Proficient in MERN Stack Development</h3>
