@@ -1,5 +1,5 @@
-
-<img src="https://github.com/ShirinRia/ShirinRia/blob/main/git_cover.png" />
+<a href="https://www.linkedin.com/in/shirin-sultana-28b338251/">
+<img src="https://github.com/ShirinRia/ShirinRia/blob/main/github_banner.png" />
 </a>
 <br/>
 <h2 align="center">Web Developer Proficient in MERN Stack Development</h2>
@@ -40,12 +40,12 @@
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShirinRia&theme=default" width="900"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShirinRia&theme=default" width="400"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShirinRia&theme=default" width="415"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShirinRia&theme=default" width="400"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShirinRia&theme=default" width="415"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShirinRia&theme=default" width="400"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShirinRia&theme=default&utcOffset=8" width="400"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShirinRia&theme=default" width="415"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShirinRia&theme=default&utcOffset=8" width="415"/>
 </div>
 <br/>
 
