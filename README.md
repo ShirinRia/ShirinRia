@@ -6,7 +6,7 @@
 <br/>
 <p align="left">I'm Shirin Sultana, a dedicated MERN Stack developer, ready to dive into new opportunities. I'm eager to showcase my skills and innovation on Github. Let's connect and explore how my creativity can drive your company's growth through dedicated responsibilities.</p>
 
-## :eyes: Overview
+## Overview
 
 - 🔭  I’m currently working with MERN Stack
 - 🌱 I’m currently exploring - Next.js 
