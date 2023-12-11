@@ -75,7 +75,7 @@
   - Backend: Node.js, Express.js
   - Database: MongoDB
   - Authentication: Firebase Authentication with JWT set at cookies
-- [Client Site](https://github.com/ShirinRia/Communeat-Donation-Website-Client-Site.git) - [Server Site](https://github.com/ShirinRia/Communeat-Donation-Website-Server-Site.git) - [Live Demo]([https://authentication-15b67.firebaseapp.com/](https://prismatic-faloodeh-2e211b.netlify.app/))
+- [Client Site](https://github.com/ShirinRia/Communeat-Donation-Website-Client-Site.git) - [Server Site](https://github.com/ShirinRia/Communeat-Donation-Website-Server-Site.git) - [Live Demo](https://prismatic-faloodeh-2e211b.netlify.app/)
 
 ### 💻 E-Commerce Based Website
 - **Description:** A beauty product based website from where users can purchase beauty products of various brands.
